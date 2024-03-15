@@ -126,3 +126,6 @@ venv2/
 *.xml
 *.iml
 .DS_Store
+
+
+group-project/data.csv
